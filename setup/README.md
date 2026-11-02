@@ -9,10 +9,10 @@ Open your Terminal application and navigate to your `~/code/ga/projects` directo
 cd ~/code/ga/projects
 ```
 
-Clone the [Card Game Starter Code](https://git.generalassemb.ly/modular-curriculum-all-courses/card-game-starter-code) repository, and enter the new directory: 
+Clone the [Card Game Starter Code](https://github.com/ga-curriculum/card-game-starter-code) repository, and enter the new directory: 
 
 ```bash
-git clone https://git.generalassemb.ly/modular-curriculum-all-courses/card-game-starter-code.git
+git clone https://github.com/ga-curriculum/card-game-starter-code.git
 cd card-game-starter-code
 ```
 
